@@ -1,0 +1,9 @@
+`define LC2K_ADD 32'b
+`define LC2K_NOR 32'b
+`define LC2K_LW 32'b
+`define LC2K_SW 32'b
+`define LC2K_BEQ 32'b
+`define LC2K_JALR 32'b
+`define LC2K_NOOP 32'b
+`define LC2K_HALT 32'b
+`define LC2K_FILL 32'b
